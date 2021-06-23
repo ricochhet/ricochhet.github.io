@@ -235,6 +235,10 @@ ul li a:hover {
         justify-content: inherit;
     }
 
+    .row.flex-wrapper {
+        display: grid;
+    }
+
     div.flex-wrapper .wrapper {
         width: auto;
     }
